@@ -103,5 +103,6 @@ setup(name='pmatic',
     install_requires=[
         "requests",
         "simpleTR64",
+        "pytz"
     ],
 )
